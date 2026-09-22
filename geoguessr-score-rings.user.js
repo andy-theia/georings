@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GeoGuessr Score Rings Visualizer
-// @namespace    https://miraclewhips.dev/
-// @version      2.1.0
+// @namespace    https://atm648.com/georings/
+// @version      2.2.0
 // @description  Draws score distance rings around map pins during non-competitive GeoGuessr rounds.
 // @author       Theia
 // @match        *://*.geoguessr.com/*
