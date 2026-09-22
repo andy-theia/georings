@@ -10,8 +10,8 @@
 // @grant        unsafeWindow
 // @copyright    2026, Theia
 // @license      MIT
-// @downloadURL  https://github.com/andy-theia/georings/blob/main/geoguessr-score-rings.user.js
-// @updateURL    https://github.com/andy-theia/georings/blob/main/geoguessr-score-rings.user.js
+// @downloadURL  https://github.com/andy-theia/georings/raw/main/geoguessr-score-rings.user.js
+// @updateURL    https://github.com/andy-theia/georings/raw/main/geoguessr-score-rings.user.js
 // ==/UserScript==
 
 (function () {
